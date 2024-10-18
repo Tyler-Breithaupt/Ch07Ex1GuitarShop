@@ -26,7 +26,7 @@ namespace GuitarShop.Controllers
                 { "Facebook", "facebook.com/myguitarshop" },
                 { "Instagram", "instagram.com/myguitarshop" }
             };
-            return View();
+            return View(contact);
         }
     }
 }
